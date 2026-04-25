@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+
+  <body>
+<main>
+        <h1>Rise Beyond</h1>
+
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/rise-beyond-2.png" 
+             alt="A futuristic landscape featuring a vast desert under a purple sky with distant planets and a lone traveler.">
+
+        <p>In a world where gravity is a luxury, one explorer must journey beyond the known atmospheric borders to save the last remnants of humanity from an impending cosmic storm.</p>
+
+        <p>
+            <strong>Movie Rating:</strong> 
+            <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span> 
+            (9.0/10)
+        </p>
+
+        <h2>Cast Members</h2>
+        <ul>
+            <li><strong>James Holloway</strong> as Ethan Carter</li>
+            <li><strong>Sarah Jenkins</strong> as Commander Mira</li>
+            <li><strong>Marcus Thorne</strong> as Kaelen</li>
+            <li><strong>Elena Rodriguez</strong> as Dr. Aris</li>
+        </ul>
+    </main>
+  </body>
+
+</html>
